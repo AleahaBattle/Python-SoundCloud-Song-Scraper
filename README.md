@@ -1,6 +1,6 @@
 # Python-Soundcloud-Song-Scraper
 <p align="center">
-	<img src="scrapper.jpeg"></img>
+	<img src="scraper.jpeg"></img>
 </p>
 
 Scraper Songs from Soundcloud using Selenium and BeautifulSoup
