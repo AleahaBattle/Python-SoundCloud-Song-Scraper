@@ -3,7 +3,7 @@
 	<img src="scraper.jpeg"></img>
 </p>
 
-Scraper Songs from Soundcloud using Selenium  Webdriver, Requests and BeautifulSoup.
+Scrapping Songs from Soundcloud using Selenium Webdriver, Requests and BeautifulSoup.
 
 
 Video: Ian Annase. Soundcloud Web Scraping with Python, YouTube, 2018.
