@@ -1,4 +1,4 @@
-# Python-Soundcloud-Song-Scraper
+# Python Soundcloud Song Scraper
 <p align="center">
 	<img src="scraper.jpeg"></img>
 </p>
